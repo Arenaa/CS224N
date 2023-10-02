@@ -8,6 +8,7 @@ This repository contains my assignments for the CS224N course from Stanford Univ
 
 ### assignment3 : Dependency Parsing
 
+### assignment4 : Neural Machine Translation with RNN
 
 
 

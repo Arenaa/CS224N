@@ -10,5 +10,7 @@ This repository contains my assignments for the CS224N course from Stanford Univ
 
 ### assignment4 : Neural Machine Translation with RNN
 
+### assignment5 : Self-Attention, Transformers, and Pretraining
+
 
 
